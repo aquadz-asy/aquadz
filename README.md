@@ -12,6 +12,7 @@ The AQuadZ LLC website: a static one-page site plus a privacy page. It uses plai
 | `brand/logo-mark.svg`, `brand/logo-mark-animated.svg` | Still and animated logo |
 | `brand/make_logo.py` | Generates every logo file and the logos inside the pages: run `python3 brand/make_logo.py` after changing the logo |
 | `CNAME` | Custom domain for GitHub Pages |
+| `_config.yml` | Keeps this README and the logo script off the live site |
 | `fonts/` | Roboto Flex (Material 3's typeface), self-hosted, with its open font licence (OFL-1.1) |
 
 ## Preview locally

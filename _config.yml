@@ -1,0 +1,4 @@
+# GitHub Pages: files kept in the repository but not published on aquadz.com
+exclude:
+  - README.md
+  - brand/make_logo.py
